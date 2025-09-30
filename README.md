@@ -5,7 +5,7 @@
 ---
 
 ## 🌐 Live Demo
-[View Live App](https://react-deploy-netlify-demo.netlify.app/)
+https://react-deploy-netlify-demo.netlify.app
 
 ---
 
@@ -33,10 +33,10 @@ It serves as a proof-of-concept for clients who want their applications deployed
 ## 🖼 Screenshots
 
 **Desktop View**  
-![Desktop Screenshot](./screenshots/Desktop.png)
+https://github.com/KanchanMehta/react-deploy-netlify-demo/blob/main/screenshots/image2.png 
 
 **Mobile View**  
-![Mobile Screenshot](./screenshots/Mobile.png)
+https://github.com/KanchanMehta/react-deploy-netlify-demo/blob/main/screenshots/image.png
 
 ---
 
