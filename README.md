@@ -50,18 +50,16 @@ https://github.com/KanchanMehta/react-deploy-netlify-demo/blob/main/screenshots/
 ---
 
 ## 📦 How to Use / Deployment Workflow
-1. Clone the repository:  
-```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-Install dependencies:
 
-bash
-Copy code
-npm install
-Build the project:
+1. Clone this repository to your local machine using Git.
 
-bash
-Copy code
-npm run build
-Deploy to Netlify (or another hosting platform) using the build output.
+2. open the project folder and navigate into the repository directory.
+
+3. Install all required dependencies using npm install.
+
+4. Build the project for production with npm run build.
+
+5. The production-ready files will be created inside the build/ folder.
+
+6. Deploy the build/ folder to a hosting service such as Netlify, Vercel, or any other static hosting provider.
 
